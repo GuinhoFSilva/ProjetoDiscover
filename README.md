@@ -33,6 +33,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
+Você pode acessar o  [projeto final](https://guinhofsilva.github.io/ProjetoDiscover/)
+
 
 ## 🔖 Layout
 
