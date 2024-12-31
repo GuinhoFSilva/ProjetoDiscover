@@ -1,7 +1,7 @@
 function mudarTema(){
     const body = document.body
-    body.classList.toggle('light')
 
+    body.classList.toggle('light')
     const img = document.querySelector("#profile img")
     const link = document.getElementById('favicon')
 
@@ -14,4 +14,5 @@ function mudarTema(){
         img.setAttribute('alt', 'foto de perfil tema escuro')
         link.setAttribute('href', './assets/4187236.png')
     }
+
 }
